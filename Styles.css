@@ -5,7 +5,7 @@ html {
     border: 0pt;
     margin: center;
 }
-img {
+    img {
   display: block;
     height: 92px;
     Margin-left: auto;
@@ -145,10 +145,11 @@ li1 a:visited {
     text-decoration: none;
 }
  footer{
-     display: block;
-     position: relative;
+     position: absolute;
+     width: 100%;
      bottom: 0;
      line-height: 40px;
+     border-top: 1px solid #e4e4e4;
      background-color: #f2f2f2;
      color: grey;
      font-size: 13px;
